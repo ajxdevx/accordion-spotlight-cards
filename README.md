@@ -1,4 +1,4 @@
-# GSAP Animated Cards
+# Accordion Spotlight Cards
 
 Interactive accordion-style animated cards built with Next.js and React. Hover or tap panels to expand them with smooth transitions and a focus indicator.
 
